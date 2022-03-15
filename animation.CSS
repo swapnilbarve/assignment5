@@ -1,0 +1,96 @@
+.container{
+    height: 750px;
+    width: 1350px;
+    background-color: yellow;
+    display: flex;
+    justify-content: center;
+    position: absolute
+
+}
+
+.box1{
+    height: 80px;
+    width: 80px;
+    background-color:brown;
+    border: 1px solid black;
+    margin-bottom: 20px;
+    transition-duration: 4s;
+    transition-property: all;
+}
+.box1:hover{
+    width: 250px;
+    
+}
+.box2{
+    height: 80px;
+    width: 80px;
+    background-color: brown;
+    border: 1px solid black;
+    margin-bottom: 20px;
+    transition-duration: 4s;
+    transition-property: all;
+}
+.box2:hover{
+    width: 250px;
+    height: 250px;
+}
+.box3{
+    height: 80px;
+    width: 80px;
+    background-color: brown;
+    border: 1px solid black;
+    margin-bottom: 20px;
+    transition-duration: 10s;
+    transition-property: all;
+}
+.box3:hover{
+    width: 310px;
+}
+.box4{
+    height:80px;
+    width: 80px;
+    background-color: brown;
+    border: 1px solid black;
+    margin-bottom: 20px;
+    transition-duration: 3s;
+    transition-property: all;
+}
+.box4:hover{
+    width: 310px;
+}
+.box5{
+    height: 80px;
+    width: 80px;
+    background-color: brown;
+    border: 1px solid black;
+    margin-bottom: 20px;
+    transition-duration: 4s;
+    transition-property: all;
+}
+.box5:hover{
+    width: 310px;
+}
+.box6{
+    height: 80px;
+    width: 80px;
+    background-color: brown;
+    border: 1px solid black;
+    margin-bottom: 20px;
+    transition-duration: 4s;
+    transition-property: all;
+}
+.box6:hover{
+    width: 310px;
+}
+.box7{
+    height: 80px;
+    width: 80px;
+    background-color: brown;
+    border: 1px solid black;
+    margin-bottom: 20px;
+    transition-duration: 4s;
+    transition-property: all;
+    }
+    .box7:hover{
+        width: 310px;
+    }
